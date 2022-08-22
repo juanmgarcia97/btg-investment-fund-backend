@@ -1,7 +1,7 @@
 # btgpactual-investments-funds
 
 ## Configuración del ambiente
-Al descargar el código fuente se encontrarán ambos projectos (Backend y Frontend). Lo más importante es configurar los archivos `.env` en las dos carpetas. En el Backend se deben ingresar las variables de configuración de la base de datos de la siguiente forma:
+En el Backend se deben ingresar las variables de entorno de la siguiente forma:
   - DB_HOST=`<host>`: host de la base de datos.
   - DB_PORT=`<puerto>`: puerto de la base de datos.
   - DB_NAME=`<name>`: puede ser cualquier nombre.
